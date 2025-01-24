@@ -7,3 +7,4 @@ streamlit==1.22.0
 pickleshare==0.7.5
 jsonpickle==3.0.1
 Keras-Preprocessing
+cv2
